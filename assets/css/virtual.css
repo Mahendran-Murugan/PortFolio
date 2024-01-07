@@ -232,6 +232,54 @@ a:hover, a:active {
             transition: all .3s;
 }
 
+.changeneed:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+.changeneed:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.changeneed:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.changeneed:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.changeneed1:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+.changeneed1:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.changeneed1:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.changeneed1:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
 .social .social-link:hover {
     background-color: #ddd;
     color: #fff;
